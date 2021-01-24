@@ -6,3 +6,5 @@
 ### python - version 3.6
 
 ### tensorflow - version 1.15.0
+
+[FaceGate 결과 발표 pdf 링크](https://github.com/su-bin99/FACEGATE/blob/master/FACEGATE.pdf)
